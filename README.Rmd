@@ -29,7 +29,7 @@ library(badger)
 [![codecov](https://codecov.io/gh/yangsophieee/ohwhaley/branch/master/graph/badge.svg?token=XN4PEEZU12)](https://codecov.io/gh/yangsophieee/ohwhaley)
 <!-- badges: end -->
 
-Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
+Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today!!! 
 
 ## First things first
 

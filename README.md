@@ -14,7 +14,7 @@
 Whale-come! This R package was inspired by
 [cowsay](https://github.com/sckott/cowsay) and
 [praise](https://github.com/rladies/praise). I hope this package made
-you smile today!
+you smile today!!!
 
 ## First things first
 
@@ -37,7 +37,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Whale, whale, whale...look who's here! 
+#>            I'm having a whale of a time! 
 #>             ------ 
 #>                \   
 #>                 \  

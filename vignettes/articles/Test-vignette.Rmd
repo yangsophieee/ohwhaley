@@ -1,0 +1,16 @@
+---
+title: "Test vignette"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(ohwhaley)
+```
+
+This is an additional article.
