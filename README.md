@@ -37,7 +37,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            You're whale-come! 
+#>            What do you call a pod of noisy whales?        An ORCASTRA! 
 #>             ------ 
 #>                \   
 #>                 \  
