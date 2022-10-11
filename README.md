@@ -7,6 +7,8 @@
 
 [![](https://img.shields.io/badge/devel%20version-0.0.0.9000-blue.svg)](https://github.com/fontikar/ohwhaley)
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/yangsophieee/ohwhaley/workflows/R-CMD-check/badge.svg)](https://github.com/yangsophieee/ohwhaley/actions)
+[![codecov](https://codecov.io/gh/yangsophieee/ohwhaley/branch/master/graph/badge.svg?token=XN4PEEZU12)](https://codecov.io/gh/yangsophieee/ohwhaley)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
@@ -35,7 +37,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Get whale soon! 
+#>            You're whale-come! 
 #>             ------ 
 #>                \   
 #>                 \  
